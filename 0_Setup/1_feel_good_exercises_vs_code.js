@@ -130,7 +130,7 @@ fix.a
 // b. Comment out useless code with Ctrl-/. Notice if you applied the
 // command multiple times, it will uncomment/comment/uncomment... it.
 let uselessCode = 'I am useles';
--/
+
 let uselessCode = 'I am useless';
 
 // c. Cool. What other shorcuts are available? Here is a shortcut to find
@@ -177,8 +177,6 @@ if (true) {
 // and c. together.
 
 // c. Add a proper "commit" message to describe your changes. Be concise.
-CustomElementRegistry
-
 
 // d. Good! Your changes are saved. If you have the permissions, you will 
 // be able to push your code online, otherwise you may have to do a 
