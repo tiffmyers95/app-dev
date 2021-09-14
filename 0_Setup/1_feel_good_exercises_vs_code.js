@@ -177,6 +177,8 @@ if (true) {
 // and c. together.
 
 // c. Add a proper "commit" message to describe your changes. Be concise.
+CustomElementRegistry
+
 
 // d. Good! Your changes are saved. If you have the permissions, you will 
 // be able to push your code online, otherwise you may have to do a 
