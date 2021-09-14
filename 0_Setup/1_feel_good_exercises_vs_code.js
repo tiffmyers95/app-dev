@@ -167,7 +167,6 @@ if (true) {
 // You made good progress. It is time to look back at when you started
 // this exercise. You were a different person, and so this was a different
 // file.
-console.log();
 
 // a. Open the Git pane on the left (usually it is the third icon from the
 // top, it should have a blue badge with a number on it).
